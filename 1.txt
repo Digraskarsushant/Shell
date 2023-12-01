@@ -1,0 +1,57 @@
+Shell scripting:
+
+For loop:
+    syntax:
+    for ((initialization;condition;inc/dec))
+    do
+    statements
+    done
+
+If statement:
+    syntax:
+        if[condition]
+        then
+        command
+        else
+        command
+        fi
+
+Wile loop:
+    syntax:
+        initialization;
+        while(condition)
+        do
+        block of code
+        action
+        done
+
+switch case:
+    syntax:
+        case expression in
+        pattern 1)
+        statements;;
+        pattern 2)
+        statements;;
+        .
+        .
+        .
+        *) (default)
+        esac
+
+awk:
+    for scanning and provind output in single unit.
+
+cat:
+    to read a file.
+
+head: 
+    to read top rows.
+
+tail:
+    to read bottom lines.
+
+
+github:
+    it is the cloud service where we can save our code in repository and it duplicates the repository and save to local server.
+
+
