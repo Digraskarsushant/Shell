@@ -54,4 +54,13 @@ tail:
 github:
     it is the cloud service where we can save our code in repository and it duplicates the repository and save to local server.
 
+git bash:
+
+how to push files in github using git bash:
+
+git init
+git add .
+git commit -m "message"
+git remote add origin https://github.com/username/repository-name.git
+git push -u origin master
 
